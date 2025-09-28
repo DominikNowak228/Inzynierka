@@ -1,0 +1,3 @@
+rep "Solar_02/Solar_02@7971479787459@cloud"
+  path "/"
+    smartbranch "/main/feature/add-cards" changeset "40"
